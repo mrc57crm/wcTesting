@@ -1,0 +1,6 @@
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.dll.config
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.dll
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\bin\Debug\WcfJsonRestService.pdb
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.csprojResolveAssemblyReference.cache
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.dll
+C:\Users\Michael.Christensen\Documents\Visual Studio 2012\Projects\Scratch\WcfJsonRestService\WcfJsonRestService\obj\Debug\WcfJsonRestService.pdb
